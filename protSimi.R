@@ -16,4 +16,8 @@ extractAAC( ...)
 
 # (3) loop ? a set of proteins....
 
-Refer to further details of protr package in CRAN https://cran.r-rpoject.org/web/packages/protr/
+# (4) choose distance calculation methods to measure the distances between protein feature vectors....
+
+
+
+# Refer to further details of "protr" package in CRAN https://cran.r-rpoject.org/web/packages/protr/   and Xiao, N. et al. (2015) Predicting proten-protein interactions based only on seqeuences information. Proceedings of the National Academy of Sciences, 104, 4337-4341.
