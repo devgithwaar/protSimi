@@ -9,7 +9,7 @@ install.packages("protr")
 library(protr)
 
 # (1) download and read your protein sequences (in FASTA format)
-readFASTA(xxx)
+fs<-readFASTA("Fasta_file_path")
 
 # (2) vectorize/ descriptorize your desired protein sequences. Here only choose xxxx descriptor as an example.
 extractAAC( ...)
