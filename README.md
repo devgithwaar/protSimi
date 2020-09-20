@@ -1,2 +1,4 @@
 # protSimi
-compute the similarities between different proteins
+
+
+Computing/measuring the distance (similarity) of different proteins using the R package "protr"
